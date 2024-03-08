@@ -1,0 +1,12 @@
+Partlist exported from C:/Users/kanak/AppData/Local/Temp/Neutron/ElectronFileOutput/1556/sch-fd9cb854-67c1-440b-b287-3456482d0a5f/Schematic_for_PCB v12.sch at 26/04/2023 15:06
+
+Part Value     Device            Package  Description      CATEGORY  DESCRIPTION MANUFACTURER MF MPN     OC_FARNELL OC_NEWARK OPERATING_TEMP PART_STATUS POPULARITY ROHS_COMPLIANT SERIES SUB-CATEGORY THERMALLOSS TYPE
+JP1  PINHD-1X6 PINHD-1X6         1X06     PIN HEADER       CONNECTOR                                                                                                                      PIN-HEADER                   
+JP2  PINHD-1X4 PINHD-1X4         1X04     PIN HEADER       CONNECTOR                                                                                                                      PIN-HEADER                   
+JP3  PINHD-1X4 PINHD-1X4         1X04     PIN HEADER       CONNECTOR                                                                                                                      PIN-HEADER                   
+JP4  PINHD-1X4 PINHD-1X4         1X04     PIN HEADER       CONNECTOR                                                                                                                      PIN-HEADER                   
+JP6  PINHD-1X4 PINHD-1X4         1X04     PIN HEADER       CONNECTOR                                                                                                                      PIN-HEADER                   
+JP7  PINHD-1X3 PINHD-1X3         1X03     PIN HEADER       CONNECTOR                                                                                                                      PIN-HEADER                   
+R1   1.2k      RESISTOR_SMD_1206 M1206                                                                                                                                                                                 
+R2   10k       RESISTOR_SMD_1206 M1206                                                                                                                                                                                 
+X1             W237-102          W237-102 WAGO SCREW CLAMP                                       237-102 unknown    70K9898                              32                                                            
